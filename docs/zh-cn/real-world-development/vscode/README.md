@@ -1,6 +1,7 @@
 ---
 slug: zh-cn/real-world-development/vscode
-title: "VS Code"
+title: "Visual Studio Code"
+description: "在 VS Code 中使用 Copilot Chat 代理模式、MCP 工具和自定义代理，跨 UI、数据层和测试构建筛选功能。"
 authors:
   - geektrainer
 lastUpdated: 2026-06-30
